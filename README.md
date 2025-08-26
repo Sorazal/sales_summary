@@ -1,2 +1,2 @@
 # sales_summary
-Python project for sales calculation'
+Python project for sales calculation
