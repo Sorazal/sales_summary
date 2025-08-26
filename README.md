@@ -1,21 +1,14 @@
-# sales_summary
-Python project for sales calculation
-def average(numbers):
-    """Calculates the average of a list of numbers"""
-    return sum(numbers) / len(numbers)
+# Sales Summary Project
 
-# List of sales
-sales = [100, 200, 50, 400, 150]
+This project calculates basic metrics from a list of sales.
 
-# Calculations
-total_sales = sum(sales)
-average_sales = average(sales)
-max_sale = max(sales)
-min_sale = min(sales)
+## Description
+- Total sales
+- Average sale
+- Highest and lowest sale
 
-# Print results
-print("=== Sales Summary ===")
-print("Total sales:", total_sales)
-print("Average sale:", average_sales)
-print("Highest sale:", max_sale)
-print("Lowest sale:", min_sale)
+## Usage
+1. Download the `sales_summary.py` file
+2. Run it with Python 3:
+   ```bash
+   python sales_summary.py
