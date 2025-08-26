@@ -1,2 +1,2 @@
 # sales_summary
-Python project για υπολογισμό πωλήσεων
+Python project for sales calculation'
